@@ -1,0 +1,22 @@
+<resources>
+    <!-- Nombre de la aplicación que se muestra en el dispositivo -->
+    <string name="app_name">TarjetaPresentacion</string>
+
+    <!-- Nombre completo del desarrollador mostrado en la UI -->
+    <string name="dev_name">José Alejandro Franco Calderon</string>
+
+    <!-- Título o rol profesional del desarrollador -->
+    <string name="dev_title">Desarrollador Android</string>
+
+    <!-- Número de teléfono de contacto que se muestra en la tarjeta -->
+    <string name="dev_phone">+57 300 123 4567</string>
+
+    <!-- Identificador o alias de redes sociales del desarrollador -->
+    <string name="dev_social">\@thealejing</string>
+
+    <!-- Dirección de correo electrónico del desarrollador -->
+    <string name="dev_mail">the.alejing@email.com</string>
+
+    <!-- Descripción accesible para la imagen de perfil -->
+    <string name="dev_pic">Imagen del desarollador</string>
+</resources>
