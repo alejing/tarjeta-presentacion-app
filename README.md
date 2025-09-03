@@ -70,7 +70,7 @@ Ejemplo mínimo de `strings.xml`:
 ## 🛠️ Cómo ejecutar el proyecto
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/alejing/terjeta-presentaci-n-app.git
+   git clone https://github.com/alejing/tarjeta-presentacion-app.git
    ```
 2. Abre el proyecto en **Android Studio**.
 3. Sincroniza Gradle y **ejecuta** en un emulador o dispositivo físico.
